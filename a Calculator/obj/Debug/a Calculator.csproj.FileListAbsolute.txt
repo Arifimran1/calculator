@@ -1,0 +1,9 @@
+D:\program\C# program in vBasic\a Calculator\a Calculator\bin\Debug\a Calculator.exe.config
+D:\program\C# program in vBasic\a Calculator\a Calculator\bin\Debug\a Calculator.exe
+D:\program\C# program in vBasic\a Calculator\a Calculator\bin\Debug\a Calculator.pdb
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a Calculator.csprojResolveAssemblyReference.cache
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a_Calculator.Form1.resources
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a_Calculator.Properties.Resources.resources
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a Calculator.csproj.GenerateResource.Cache
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a Calculator.exe
+D:\program\C# program in vBasic\a Calculator\a Calculator\obj\Debug\a Calculator.pdb
